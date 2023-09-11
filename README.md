@@ -4,18 +4,11 @@
 
 This board has a real time clock module along with a battery backup. It will keep time over power cycles and also track days/months/years and time of day. 
 
-![sm]()
+![front](https://github.com/evezor/v0_real_time_clock_board/blob/master/pics/front.PNG)
 
-![sm2]()
+![back](https://github.com/evezor/v0_real_time_clock_board/blob/master/pics/back.PNG)
 
-![front]()
-
-![back]()
-
-![copper]()
-
-![sch]()
-
+![copper](https://github.com/evezor/v0_real_time_clock_board/blob/master/pics/copper.PNG)
 
 source files can be found here: https://github.com/evezor/v0_real_time_clock_board
 
